@@ -27,7 +27,7 @@ Thank you for your interest in contributing to MCP-Use! This document provides g
 ### Development Environment
 
 Android-MCP requires:
-- Python 3.11 or later
+- Python 3.12 or later
 
 ### Installation from Source
 
